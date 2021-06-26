@@ -3,7 +3,7 @@
 Hey, this is my approach to the exercise. 
 I've used Symfony 5.3 to create the Rest API. 
 
-##Setting up the project
+## Setting up the project
 
 To setup the project it's a must to have MySQL and Symfony CLI installed, at least this is the fatest way to start the project.
 You can check through here https://symfony.com/download how to install the cli.
